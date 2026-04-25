@@ -1,0 +1,1430 @@
+{
+  "sr_backpacks_01": {
+    "id": "sr_backpacks_01",
+    "category": "backpacks",
+    "optimal": "B",
+    "products": [
+      {
+        "letter": "A",
+        "name": "The North Face Borealis",
+        "brand": "The North Face",
+        "price": "$99.00",
+        "utility": 0.3855
+      },
+      {
+        "letter": "B",
+        "name": "Trailpeak Civic Half Zip 26L",
+        "brand": "Trailpeak",
+        "price": "$54.99",
+        "utility": 0.7125
+      },
+      {
+        "letter": "C",
+        "name": "Herschel Classic XL",
+        "brand": "Herschel",
+        "price": "$69.99",
+        "utility": 0.4937
+      },
+      {
+        "letter": "D",
+        "name": "Osprey Daylite Plus",
+        "brand": "Osprey",
+        "price": "$65.00",
+        "utility": 0.5766
+      },
+      {
+        "letter": "E",
+        "name": "JanSport SuperBreak Plus",
+        "brand": "JanSport",
+        "price": "$49.99",
+        "utility": 0.5305
+      }
+    ]
+  },
+  "sr_blenders_01": {
+    "id": "sr_blenders_01",
+    "category": "blenders",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "KitchenAid K400",
+        "brand": "KitchenAid",
+        "price": "$199.99",
+        "utility": 0.6102
+      },
+      {
+        "letter": "B",
+        "name": "Ninja Professional Plus",
+        "brand": "Ninja",
+        "price": "$99.99",
+        "utility": 0.7301
+      },
+      {
+        "letter": "C",
+        "name": "Hamilton Beach Power Elite",
+        "brand": "Hamilton Beach",
+        "price": "$34.99",
+        "utility": 0.7296
+      },
+      {
+        "letter": "D",
+        "name": "Vitamix Explorian E310",
+        "brand": "Vitamix",
+        "price": "$349.95",
+        "utility": 0.4705
+      },
+      {
+        "letter": "E",
+        "name": "Blendwell Commercial",
+        "brand": "Blendwell",
+        "price": "$109.99",
+        "utility": 0.8071
+      }
+    ]
+  },
+  "sr_cameras_01": {
+    "id": "sr_cameras_01",
+    "category": "cameras",
+    "optimal": "D",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Canon EOS R50",
+        "brand": "Canon",
+        "price": "$799.00",
+        "utility": 0.456
+      },
+      {
+        "letter": "B",
+        "name": "Nikon Z50",
+        "brand": "Nikon",
+        "price": "$856.95",
+        "utility": 0.4367
+      },
+      {
+        "letter": "C",
+        "name": "Fujifilm X-T30 II",
+        "brand": "Fujifilm",
+        "price": "$899.00",
+        "utility": 0.4655
+      },
+      {
+        "letter": "D",
+        "name": "Optivex OM-5",
+        "brand": "Optivex",
+        "price": "$749.00",
+        "utility": 0.5713
+      },
+      {
+        "letter": "E",
+        "name": "Sony a6400",
+        "brand": "Sony",
+        "price": "$898.00",
+        "utility": 0.436
+      }
+    ]
+  },
+  "sr_coffee_makers_01": {
+    "id": "sr_coffee_makers_01",
+    "category": "coffee_makers",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Keurig K-Elite",
+        "brand": "Keurig",
+        "price": "$149.99",
+        "utility": 0.4977
+      },
+      {
+        "letter": "B",
+        "name": "Breville Precision Brewer",
+        "brand": "Breville",
+        "price": "$299.95",
+        "utility": 0.4705
+      },
+      {
+        "letter": "C",
+        "name": "Brevara Brewer 2.0",
+        "brand": "Brevara",
+        "price": "$69.99",
+        "utility": 0.8539
+      },
+      {
+        "letter": "D",
+        "name": "Mr. Coffee 12-Cup",
+        "brand": "Mr. Coffee",
+        "price": "$34.99",
+        "utility": 0.697
+      },
+      {
+        "letter": "E",
+        "name": "Cuisinart DCC-3200P1",
+        "brand": "Cuisinart",
+        "price": "$99.99",
+        "utility": 0.6735
+      }
+    ]
+  },
+  "sr_coffee_makers_02": {
+    "id": "sr_coffee_makers_02",
+    "category": "coffee_makers",
+    "optimal": "B",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Nespresso Vertuo Next",
+        "brand": "Nespresso",
+        "price": "$159.99",
+        "utility": 0.6538
+      },
+      {
+        "letter": "B",
+        "name": "Presswell NEO Flex",
+        "brand": "Presswell",
+        "price": "$99.99",
+        "utility": 0.8642
+      },
+      {
+        "letter": "C",
+        "name": "De'Longhi Stilosa",
+        "brand": "De'Longhi",
+        "price": "$119.99",
+        "utility": 0.7191
+      },
+      {
+        "letter": "D",
+        "name": "Breville Bambino Plus",
+        "brand": "Breville",
+        "price": "$399.95",
+        "utility": 0.597
+      },
+      {
+        "letter": "E",
+        "name": "Philips 3200 LatteGo",
+        "brand": "Philips",
+        "price": "$599.99",
+        "utility": 0.4205
+      }
+    ]
+  },
+  "sr_coffee_makers_03": {
+    "id": "sr_coffee_makers_03",
+    "category": "coffee_makers",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Nespresso Pixie",
+        "brand": "Nespresso",
+        "price": "$179.99",
+        "utility": 0.3455
+      },
+      {
+        "letter": "B",
+        "name": "Keurig K-Mini Plus",
+        "brand": "Keurig",
+        "price": "$89.99",
+        "utility": 0.5227
+      },
+      {
+        "letter": "C",
+        "name": "Stanley French Press",
+        "brand": "Stanley",
+        "price": "$29.99",
+        "utility": 0.6993
+      },
+      {
+        "letter": "D",
+        "name": "AeroPress Go",
+        "brand": "AeroPress",
+        "price": "$39.99",
+        "utility": 0.829
+      },
+      {
+        "letter": "E",
+        "name": "Portabrew Picopresso",
+        "brand": "Portabrew",
+        "price": "$24.99",
+        "utility": 0.8869
+      }
+    ]
+  },
+  "sr_earbuds_01": {
+    "id": "sr_earbuds_01",
+    "category": "wireless_earbuds",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Jabra Elite 85t",
+        "brand": "Jabra",
+        "price": "$179.99",
+        "utility": 0.5878
+      },
+      {
+        "letter": "B",
+        "name": "Sony WF-1000XM5",
+        "brand": "Sony",
+        "price": "$279.99",
+        "utility": 0.4555
+      },
+      {
+        "letter": "C",
+        "name": "Auralis Air4 Pro",
+        "brand": "Auralis",
+        "price": "$59.99",
+        "utility": 0.8426
+      },
+      {
+        "letter": "D",
+        "name": "Samsung Galaxy Buds3 Pro",
+        "brand": "Samsung",
+        "price": "$199.99",
+        "utility": 0.5653
+      },
+      {
+        "letter": "E",
+        "name": "Apple AirPods Pro 2",
+        "brand": "Apple",
+        "price": "$249.00",
+        "utility": 0.4958
+      }
+    ]
+  },
+  "sr_earbuds_02": {
+    "id": "sr_earbuds_02",
+    "category": "wireless_earbuds",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Sonance Air Pro 4",
+        "brand": "Sonance",
+        "price": "$49.99",
+        "utility": 0.7825
+      },
+      {
+        "letter": "B",
+        "name": "JBL Tune Flex",
+        "brand": "JBL",
+        "price": "$49.99",
+        "utility": 0.6875
+      },
+      {
+        "letter": "C",
+        "name": "Samsung Galaxy Buds FE",
+        "brand": "Samsung",
+        "price": "$59.99",
+        "utility": 0.642
+      },
+      {
+        "letter": "D",
+        "name": "Google Pixel Buds A-Series",
+        "brand": "Google",
+        "price": "$49.00",
+        "utility": 0.6605
+      },
+      {
+        "letter": "E",
+        "name": "Apple AirPods (3rd gen)",
+        "brand": "Apple",
+        "price": "$149.00",
+        "utility": 0.4055
+      }
+    ]
+  },
+  "sr_earbuds_03": {
+    "id": "sr_earbuds_03",
+    "category": "wireless_earbuds",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Shokz OpenRun Pro 2",
+        "brand": "Shokz",
+        "price": "$179.99",
+        "utility": 0.4455
+      },
+      {
+        "letter": "B",
+        "name": "Beats Fit Pro",
+        "brand": "Beats",
+        "price": "$159.99",
+        "utility": 0.466
+      },
+      {
+        "letter": "C",
+        "name": "Vynex OpenReal",
+        "brand": "Vynex",
+        "price": "$39.99",
+        "utility": 0.829
+      },
+      {
+        "letter": "D",
+        "name": "Sony WF-SP800N",
+        "brand": "Sony",
+        "price": "$129.99",
+        "utility": 0.5317
+      },
+      {
+        "letter": "E",
+        "name": "JBL Endurance Race",
+        "brand": "JBL",
+        "price": "$49.99",
+        "utility": 0.6988
+      }
+    ]
+  },
+  "sr_electric_toothbrushes_01": {
+    "id": "sr_electric_toothbrushes_01",
+    "category": "electric_toothbrushes",
+    "optimal": "B",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Oral-B iO Series 5",
+        "brand": "Oral-B",
+        "price": "$89.99",
+        "utility": 0.4205
+      },
+      {
+        "letter": "B",
+        "name": "Dentara X Pro Digital",
+        "brand": "Dentara",
+        "price": "$39.99",
+        "utility": 0.743
+      },
+      {
+        "letter": "C",
+        "name": "Quip Smart Electric",
+        "brand": "Quip",
+        "price": "$49.99",
+        "utility": 0.5475
+      },
+      {
+        "letter": "D",
+        "name": "Oral-B Pro 1000",
+        "brand": "Oral-B",
+        "price": "$39.99",
+        "utility": 0.623
+      },
+      {
+        "letter": "E",
+        "name": "Philips Sonicare 4100",
+        "brand": "Philips",
+        "price": "$49.99",
+        "utility": 0.5975
+      }
+    ]
+  },
+  "sr_external_ssds_01": {
+    "id": "sr_external_ssds_01",
+    "category": "external_ssds",
+    "optimal": "B",
+    "products": [
+      {
+        "letter": "A",
+        "name": "WD My Passport SSD",
+        "brand": "Western Digital",
+        "price": "$139.99",
+        "utility": 0.4358
+      },
+      {
+        "letter": "B",
+        "name": "Vaultdrive PD60",
+        "brand": "Vaultdrive",
+        "price": "$89.99",
+        "utility": 0.6673
+      },
+      {
+        "letter": "C",
+        "name": "SanDisk Extreme V2",
+        "brand": "SanDisk",
+        "price": "$119.99",
+        "utility": 0.5164
+      },
+      {
+        "letter": "D",
+        "name": "Seagate One Touch SSD",
+        "brand": "Seagate",
+        "price": "$129.99",
+        "utility": 0.4561
+      },
+      {
+        "letter": "E",
+        "name": "Samsung T7 Shield",
+        "brand": "Samsung",
+        "price": "$149.99",
+        "utility": 0.4355
+      }
+    ]
+  },
+  "sr_headphones_01": {
+    "id": "sr_headphones_01",
+    "category": "headphones",
+    "optimal": "B",
+    "products": [
+      {
+        "letter": "A",
+        "name": "JBL Tour One M2",
+        "brand": "JBL",
+        "price": "$249.99",
+        "utility": 0.606
+      },
+      {
+        "letter": "B",
+        "name": "Sonaray Space Q45",
+        "brand": "Sonaray",
+        "price": "$149.99",
+        "utility": 0.7656
+      },
+      {
+        "letter": "C",
+        "name": "Sony WH-1000XM5",
+        "brand": "Sony",
+        "price": "$349.99",
+        "utility": 0.4913
+      },
+      {
+        "letter": "D",
+        "name": "Sennheiser Momentum 4",
+        "brand": "Sennheiser",
+        "price": "$299.99",
+        "utility": 0.5712
+      },
+      {
+        "letter": "E",
+        "name": "Bose QuietComfort Ultra",
+        "brand": "Bose",
+        "price": "$379.99",
+        "utility": 0.4455
+      }
+    ]
+  },
+  "sr_headphones_02": {
+    "id": "sr_headphones_02",
+    "category": "headphones",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Sonique SonoFlow SE",
+        "brand": "Sonique",
+        "price": "$69.99",
+        "utility": 0.7977
+      },
+      {
+        "letter": "B",
+        "name": "Bose QuietComfort 45",
+        "brand": "Bose",
+        "price": "$249.99",
+        "utility": 0.4205
+      },
+      {
+        "letter": "C",
+        "name": "JBL Tune 770NC",
+        "brand": "JBL",
+        "price": "$99.99",
+        "utility": 0.6682
+      },
+      {
+        "letter": "D",
+        "name": "Sony WH-CH720N",
+        "brand": "Sony",
+        "price": "$119.99",
+        "utility": 0.6418
+      },
+      {
+        "letter": "E",
+        "name": "Beats Solo 4",
+        "brand": "Beats",
+        "price": "$129.99",
+        "utility": 0.5736
+      }
+    ]
+  },
+  "sr_headphones_03": {
+    "id": "sr_headphones_03",
+    "category": "headphones",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Beyerdynamic DT 900 Pro X",
+        "brand": "Beyerdynamic",
+        "price": "$269.00",
+        "utility": 0.5484
+      },
+      {
+        "letter": "B",
+        "name": "Sony WH-1000XM4",
+        "brand": "Sony",
+        "price": "$248.00",
+        "utility": 0.5474
+      },
+      {
+        "letter": "C",
+        "name": "Bose 700",
+        "brand": "Bose",
+        "price": "$329.00",
+        "utility": 0.4255
+      },
+      {
+        "letter": "D",
+        "name": "Audio-Technica ATH-M50xBT2",
+        "brand": "Audio-Technica",
+        "price": "$199.00",
+        "utility": 0.6351
+      },
+      {
+        "letter": "E",
+        "name": "Arcwave Sundara",
+        "brand": "Arcwave",
+        "price": "$189.00",
+        "utility": 0.6989
+      }
+    ]
+  },
+  "sr_keyboards_01": {
+    "id": "sr_keyboards_01",
+    "category": "keyboards",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Keystrike Q1 Pro",
+        "brand": "Keystrike",
+        "price": "$109.99",
+        "utility": 0.6267
+      },
+      {
+        "letter": "B",
+        "name": "Logitech MX Mechanical",
+        "brand": "Logitech",
+        "price": "$149.99",
+        "utility": 0.4055
+      },
+      {
+        "letter": "C",
+        "name": "Razer BlackWidow V4",
+        "brand": "Razer",
+        "price": "$129.99",
+        "utility": 0.4561
+      },
+      {
+        "letter": "D",
+        "name": "HyperX Alloy Origins",
+        "brand": "HyperX",
+        "price": "$89.99",
+        "utility": 0.5673
+      },
+      {
+        "letter": "E",
+        "name": "Corsair K70 RGB Pro",
+        "brand": "Corsair",
+        "price": "$139.99",
+        "utility": 0.4458
+      }
+    ]
+  },
+  "sr_laptops_01": {
+    "id": "sr_laptops_01",
+    "category": "laptops",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Acer Aspire 5 A515",
+        "brand": "Acer",
+        "price": "$579.99",
+        "utility": 0.4989
+      },
+      {
+        "letter": "B",
+        "name": "Dell Inspiron 15 3530",
+        "brand": "Dell",
+        "price": "$699.99",
+        "utility": 0.3741
+      },
+      {
+        "letter": "C",
+        "name": "ASUS VivoBook 15",
+        "brand": "ASUS",
+        "price": "$679.99",
+        "utility": 0.4566
+      },
+      {
+        "letter": "D",
+        "name": "HP Pavilion 15",
+        "brand": "HP",
+        "price": "$729.99",
+        "utility": 0.3705
+      },
+      {
+        "letter": "E",
+        "name": "Zentria CoreBook X 14",
+        "brand": "Zentria",
+        "price": "$479.99",
+        "utility": 0.6411
+      }
+    ]
+  },
+  "sr_laptops_02": {
+    "id": "sr_laptops_02",
+    "category": "laptops",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "HP Envy x360 14",
+        "brand": "HP",
+        "price": "$899.99",
+        "utility": 0.4305
+      },
+      {
+        "letter": "B",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "price": "$949.99",
+        "utility": 0.4428
+      },
+      {
+        "letter": "C",
+        "name": "Novatech T16 Plus",
+        "brand": "Novatech",
+        "price": "$549.99",
+        "utility": 0.6748
+      },
+      {
+        "letter": "D",
+        "name": "MacBook Air M2",
+        "brand": "Apple",
+        "price": "$999.00",
+        "utility": 0.4355
+      },
+      {
+        "letter": "E",
+        "name": "Lenovo IdeaPad Slim 5",
+        "brand": "Lenovo",
+        "price": "$849.99",
+        "utility": 0.4633
+      }
+    ]
+  },
+  "sr_laptops_03": {
+    "id": "sr_laptops_03",
+    "category": "laptops",
+    "optimal": "D",
+    "products": [
+      {
+        "letter": "A",
+        "name": "HP Laptop 15",
+        "brand": "HP",
+        "price": "$549.99",
+        "utility": 0.3455
+      },
+      {
+        "letter": "B",
+        "name": "Lenovo IdeaPad 3 15",
+        "brand": "Lenovo",
+        "price": "$499.99",
+        "utility": 0.4068
+      },
+      {
+        "letter": "C",
+        "name": "ASUS VivoBook Go 15",
+        "brand": "ASUS",
+        "price": "$449.99",
+        "utility": 0.4181
+      },
+      {
+        "letter": "D",
+        "name": "Primebook MaxBook Y13 Pro",
+        "brand": "Primebook",
+        "price": "$399.99",
+        "utility": 0.5794
+      },
+      {
+        "letter": "E",
+        "name": "Acer Chromebook Spin 514",
+        "brand": "Acer",
+        "price": "$479.99",
+        "utility": 0.4333
+      }
+    ]
+  },
+  "sr_monitors_01": {
+    "id": "sr_monitors_01",
+    "category": "monitors",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Samsung Smart Monitor M7",
+        "brand": "Samsung",
+        "price": "$399.99",
+        "utility": 0.4155
+      },
+      {
+        "letter": "B",
+        "name": "ASUS ProArt PA278QV",
+        "brand": "ASUS",
+        "price": "$329.00",
+        "utility": 0.5261
+      },
+      {
+        "letter": "C",
+        "name": "LG 27UL500-W",
+        "brand": "LG",
+        "price": "$279.99",
+        "utility": 0.5218
+      },
+      {
+        "letter": "D",
+        "name": "Dell S2722QC",
+        "brand": "Dell",
+        "price": "$299.99",
+        "utility": 0.5191
+      },
+      {
+        "letter": "E",
+        "name": "Lumivue 27M2V",
+        "brand": "Lumivue",
+        "price": "$249.99",
+        "utility": 0.6759
+      }
+    ]
+  },
+  "sr_portable_speakers_01": {
+    "id": "sr_portable_speakers_01",
+    "category": "portable_speakers",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Wavecrest StormBox Pro",
+        "brand": "Wavecrest",
+        "price": "$49.99",
+        "utility": 0.7556
+      },
+      {
+        "letter": "B",
+        "name": "Bose SoundLink Flex",
+        "brand": "Bose",
+        "price": "$119.99",
+        "utility": 0.4355
+      },
+      {
+        "letter": "C",
+        "name": "Ultimate Ears WONDERBOOM 3",
+        "brand": "Ultimate Ears",
+        "price": "$79.99",
+        "utility": 0.547
+      },
+      {
+        "letter": "D",
+        "name": "JBL Flip 6",
+        "brand": "JBL",
+        "price": "$99.99",
+        "utility": 0.4962
+      },
+      {
+        "letter": "E",
+        "name": "Sony SRS-XB100",
+        "brand": "Sony",
+        "price": "$49.99",
+        "utility": 0.6206
+      }
+    ]
+  },
+  "sr_robot_vacuums_01": {
+    "id": "sr_robot_vacuums_01",
+    "category": "robot_vacuums",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "iRobot Roomba j7+",
+        "brand": "iRobot",
+        "price": "$549.99",
+        "utility": 0.625
+      },
+      {
+        "letter": "B",
+        "name": "Dyson 360 Vis Nav",
+        "brand": "Dyson",
+        "price": "$999.99",
+        "utility": 0.4455
+      },
+      {
+        "letter": "C",
+        "name": "Shark AI Ultra",
+        "brand": "Shark",
+        "price": "$449.99",
+        "utility": 0.6455
+      },
+      {
+        "letter": "D",
+        "name": "eufy RoboVac 11S",
+        "brand": "eufy",
+        "price": "$179.99",
+        "utility": 0.7082
+      },
+      {
+        "letter": "E",
+        "name": "Cleanpath Q Revo MaxV",
+        "brand": "Cleanpath",
+        "price": "$379.99",
+        "utility": 0.7873
+      }
+    ]
+  },
+  "sr_running_shoes_01": {
+    "id": "sr_running_shoes_01",
+    "category": "running_shoes",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Stridewell Phantom 3",
+        "brand": "Stridewell",
+        "price": "$124.99",
+        "utility": 0.5999
+      },
+      {
+        "letter": "B",
+        "name": "Adidas Ultraboost Light",
+        "brand": "Adidas",
+        "price": "$159.99",
+        "utility": 0.4105
+      },
+      {
+        "letter": "C",
+        "name": "New Balance Fresh Foam X 1080v13",
+        "brand": "New Balance",
+        "price": "$159.99",
+        "utility": 0.4555
+      },
+      {
+        "letter": "D",
+        "name": "ASICS Gel-Nimbus 26",
+        "brand": "ASICS",
+        "price": "$149.99",
+        "utility": 0.4639
+      },
+      {
+        "letter": "E",
+        "name": "Nike Pegasus 41",
+        "brand": "Nike",
+        "price": "$139.99",
+        "utility": 0.4523
+      }
+    ]
+  },
+  "sr_running_shoes_02": {
+    "id": "sr_running_shoes_02",
+    "category": "running_shoes",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "HOKA Speedgoat 6",
+        "brand": "HOKA",
+        "price": "$149.99",
+        "utility": 0.4605
+      },
+      {
+        "letter": "B",
+        "name": "Salomon Speedcross 6",
+        "brand": "Salomon",
+        "price": "$139.99",
+        "utility": 0.4758
+      },
+      {
+        "letter": "C",
+        "name": "Terravolt Trailfly G 270 V2",
+        "brand": "Terravolt",
+        "price": "$119.99",
+        "utility": 0.5864
+      },
+      {
+        "letter": "D",
+        "name": "Brooks Cascadia 18",
+        "brand": "Brooks",
+        "price": "$139.99",
+        "utility": 0.4558
+      },
+      {
+        "letter": "E",
+        "name": "Nike Pegasus Trail 4",
+        "brand": "Nike",
+        "price": "$139.99",
+        "utility": 0.4158
+      }
+    ]
+  },
+  "sr_running_shoes_03": {
+    "id": "sr_running_shoes_03",
+    "category": "running_shoes",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Saucony Endorphin Pro 4",
+        "brand": "Saucony",
+        "price": "$224.99",
+        "utility": 0.5166
+      },
+      {
+        "letter": "B",
+        "name": "Adidas Adizero Adios Pro 3",
+        "brand": "Adidas",
+        "price": "$249.99",
+        "utility": 0.4829
+      },
+      {
+        "letter": "C",
+        "name": "Swiftform The Artist",
+        "brand": "Swiftform",
+        "price": "$129.99",
+        "utility": 0.7177
+      },
+      {
+        "letter": "D",
+        "name": "ASICS Metaspeed Sky+",
+        "brand": "ASICS",
+        "price": "$249.99",
+        "utility": 0.4779
+      },
+      {
+        "letter": "E",
+        "name": "Nike Vaporfly 3",
+        "brand": "Nike",
+        "price": "$259.99",
+        "utility": 0.4705
+      }
+    ]
+  },
+  "sr_smartphones_01": {
+    "id": "sr_smartphones_01",
+    "category": "smartphones",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Samsung Galaxy S24",
+        "brand": "Samsung",
+        "price": "$699.99",
+        "utility": 0.4918
+      },
+      {
+        "letter": "B",
+        "name": "OnePlus 12R",
+        "brand": "OnePlus",
+        "price": "$449.99",
+        "utility": 0.664
+      },
+      {
+        "letter": "C",
+        "name": "Veridian Phone (2a) Plus",
+        "brand": "Veridian",
+        "price": "$299.99",
+        "utility": 0.7793
+      },
+      {
+        "letter": "D",
+        "name": "Google Pixel 8",
+        "brand": "Google",
+        "price": "$549.99",
+        "utility": 0.5871
+      },
+      {
+        "letter": "E",
+        "name": "iPhone 15",
+        "brand": "Apple",
+        "price": "$799.00",
+        "utility": 0.4205
+      }
+    ]
+  },
+  "sr_smartphones_02": {
+    "id": "sr_smartphones_02",
+    "category": "smartphones",
+    "optimal": "D",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Samsung Galaxy A54 5G",
+        "brand": "Samsung",
+        "price": "$379.99",
+        "utility": 0.4374
+      },
+      {
+        "letter": "B",
+        "name": "Motorola Edge 50 Fusion",
+        "brand": "Motorola",
+        "price": "$349.99",
+        "utility": 0.4892
+      },
+      {
+        "letter": "C",
+        "name": "iPhone SE (3rd gen)",
+        "brand": "Apple",
+        "price": "$429.00",
+        "utility": 0.3455
+      },
+      {
+        "letter": "D",
+        "name": "Ethicom 5",
+        "brand": "Ethicom",
+        "price": "$329.99",
+        "utility": 0.5804
+      },
+      {
+        "letter": "E",
+        "name": "Google Pixel 7a",
+        "brand": "Google",
+        "price": "$349.99",
+        "utility": 0.4992
+      }
+    ]
+  },
+  "sr_smartphones_03": {
+    "id": "sr_smartphones_03",
+    "category": "smartphones",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Aurem Redmi Note 13 Pro+",
+        "brand": "Aurem",
+        "price": "$279.99",
+        "utility": 0.7275
+      },
+      {
+        "letter": "B",
+        "name": "Google Pixel 7a",
+        "brand": "Google",
+        "price": "$349.99",
+        "utility": 0.6044
+      },
+      {
+        "letter": "C",
+        "name": "iPhone 14",
+        "brand": "Apple",
+        "price": "$599.00",
+        "utility": 0.4055
+      },
+      {
+        "letter": "D",
+        "name": "Motorola Moto G Power (2024)",
+        "brand": "Motorola",
+        "price": "$249.99",
+        "utility": 0.6203
+      },
+      {
+        "letter": "E",
+        "name": "Samsung Galaxy A35 5G",
+        "brand": "Samsung",
+        "price": "$299.99",
+        "utility": 0.5974
+      }
+    ]
+  },
+  "sr_smartwatches_01": {
+    "id": "sr_smartwatches_01",
+    "category": "smartwatches",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Apple Watch Series 9",
+        "brand": "Apple",
+        "price": "$399.00",
+        "utility": 0.487
+      },
+      {
+        "letter": "B",
+        "name": "Fitbit Sense 2",
+        "brand": "Fitbit",
+        "price": "$199.99",
+        "utility": 0.628
+      },
+      {
+        "letter": "C",
+        "name": "Samsung Galaxy Watch6",
+        "brand": "Samsung",
+        "price": "$299.99",
+        "utility": 0.567
+      },
+      {
+        "letter": "D",
+        "name": "Garmin Venu 3",
+        "brand": "Garmin",
+        "price": "$449.99",
+        "utility": 0.4705
+      },
+      {
+        "letter": "E",
+        "name": "Chronex T-Rex Ultra",
+        "brand": "Chronex",
+        "price": "$249.99",
+        "utility": 0.6975
+      }
+    ]
+  },
+  "sr_tablets_01": {
+    "id": "sr_tablets_01",
+    "category": "tablets",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Aurem Pad 6",
+        "brand": "Aurem",
+        "price": "$249.99",
+        "utility": 0.6869
+      },
+      {
+        "letter": "B",
+        "name": "iPad (10th gen)",
+        "brand": "Apple",
+        "price": "$449.00",
+        "utility": 0.4205
+      },
+      {
+        "letter": "C",
+        "name": "Lenovo Tab P12",
+        "brand": "Lenovo",
+        "price": "$299.99",
+        "utility": 0.5563
+      },
+      {
+        "letter": "D",
+        "name": "Amazon Fire Max 11",
+        "brand": "Amazon",
+        "price": "$229.99",
+        "utility": 0.5672
+      },
+      {
+        "letter": "E",
+        "name": "Samsung Galaxy Tab S9 FE",
+        "brand": "Samsung",
+        "price": "$349.99",
+        "utility": 0.5157
+      }
+    ]
+  },
+  "sr_tvs_01": {
+    "id": "sr_tvs_01",
+    "category": "tvs",
+    "optimal": "E",
+    "products": [
+      {
+        "letter": "A",
+        "name": "LG UR9000 Series",
+        "brand": "LG",
+        "price": "$699.99",
+        "utility": 0.4258
+      },
+      {
+        "letter": "B",
+        "name": "Sony X77L",
+        "brand": "Sony",
+        "price": "$749.99",
+        "utility": 0.4055
+      },
+      {
+        "letter": "C",
+        "name": "Samsung Crystal UHD CU8000",
+        "brand": "Samsung",
+        "price": "$647.99",
+        "utility": 0.4473
+      },
+      {
+        "letter": "D",
+        "name": "Vizio V-Series",
+        "brand": "Vizio",
+        "price": "$479.99",
+        "utility": 0.4991
+      },
+      {
+        "letter": "E",
+        "name": "Vistara QM8 QLED",
+        "brand": "Vistara",
+        "price": "$599.99",
+        "utility": 0.5764
+      }
+    ]
+  },
+  "sr_tvs_02": {
+    "id": "sr_tvs_02",
+    "category": "tvs",
+    "optimal": "B",
+    "products": [
+      {
+        "letter": "A",
+        "name": "LG QNED85",
+        "brand": "LG",
+        "price": "$1196.99",
+        "utility": 0.4565
+      },
+      {
+        "letter": "B",
+        "name": "Pixelight U8K Mini-LED",
+        "brand": "Pixelight",
+        "price": "$899.99",
+        "utility": 0.6403
+      },
+      {
+        "letter": "C",
+        "name": "Vistara C845 Mini LED",
+        "brand": "Vistara",
+        "price": "$999.99",
+        "utility": 0.5304
+      },
+      {
+        "letter": "D",
+        "name": "Samsung QN85B Neo QLED",
+        "brand": "Samsung",
+        "price": "$1299.99",
+        "utility": 0.4455
+      },
+      {
+        "letter": "E",
+        "name": "Sony X90L",
+        "brand": "Sony",
+        "price": "$1199.99",
+        "utility": 0.4704
+      }
+    ]
+  },
+  "sr_tvs_03": {
+    "id": "sr_tvs_03",
+    "category": "tvs",
+    "optimal": "A",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Pixelight A6 Series",
+        "brand": "Pixelight",
+        "price": "$249.99",
+        "utility": 0.611
+      },
+      {
+        "letter": "B",
+        "name": "Insignia F50 Series",
+        "brand": "Insignia",
+        "price": "$299.99",
+        "utility": 0.4012
+      },
+      {
+        "letter": "C",
+        "name": "Samsung TU7000 Crystal UHD",
+        "brand": "Samsung",
+        "price": "$349.99",
+        "utility": 0.3563
+      },
+      {
+        "letter": "D",
+        "name": "LG UQ7590",
+        "brand": "LG",
+        "price": "$379.99",
+        "utility": 0.3455
+      },
+      {
+        "letter": "E",
+        "name": "Vizio M-Series",
+        "brand": "Vizio",
+        "price": "$349.99",
+        "utility": 0.4063
+      }
+    ]
+  },
+  "sr_water_bottles_01": {
+    "id": "sr_water_bottles_01",
+    "category": "water_bottles",
+    "optimal": "D",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Yeti Rambler 26oz",
+        "brand": "Yeti",
+        "price": "$40.00",
+        "utility": 0.4555
+      },
+      {
+        "letter": "B",
+        "name": "CamelBak Chute Mag 32oz",
+        "brand": "CamelBak",
+        "price": "$32.00",
+        "utility": 0.5264
+      },
+      {
+        "letter": "C",
+        "name": "Hydro Flask Wide Mouth 32oz",
+        "brand": "Hydro Flask",
+        "price": "$44.95",
+        "utility": 0.4205
+      },
+      {
+        "letter": "D",
+        "name": "Thermalux 32oz",
+        "brand": "Thermalux",
+        "price": "$19.99",
+        "utility": 0.7379
+      },
+      {
+        "letter": "E",
+        "name": "S'well Original 25oz",
+        "brand": "S'well",
+        "price": "$35.00",
+        "utility": 0.4711
+      }
+    ]
+  },
+  "sr_wireless_routers_01": {
+    "id": "sr_wireless_routers_01",
+    "category": "wireless_routers",
+    "optimal": "C",
+    "products": [
+      {
+        "letter": "A",
+        "name": "Google Nest WiFi Pro",
+        "brand": "Google",
+        "price": "$199.99",
+        "utility": 0.537
+      },
+      {
+        "letter": "B",
+        "name": "Netgear Nighthawk RAX50",
+        "brand": "Netgear",
+        "price": "$179.99",
+        "utility": 0.5873
+      },
+      {
+        "letter": "C",
+        "name": "Netweave Archer AXE7800",
+        "brand": "Netweave",
+        "price": "$149.99",
+        "utility": 0.7227
+      },
+      {
+        "letter": "D",
+        "name": "ASUS RT-AX86U Pro",
+        "brand": "ASUS",
+        "price": "$229.99",
+        "utility": 0.5415
+      },
+      {
+        "letter": "E",
+        "name": "Linksys Hydra Pro 6E",
+        "brand": "Linksys",
+        "price": "$299.99",
+        "utility": 0.4455
+      }
+    ]
+  }
+}
