@@ -299,7 +299,8 @@
     "participant_choice": "Axel Arigato Clean 90 Sneaker",
     "participant_choice_price": "$230.00",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "6.0"
   },
@@ -656,7 +657,8 @@
     "participant_choice": "NVIDIA RTX 4090",
     "participant_choice_price": "$1599.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "5.0"
   },
@@ -1014,7 +1016,8 @@
     "participant_choice": "Sun Bum Original SPF 50 Lotion",
     "participant_choice_price": "$15.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "2.0",
     "trust_trust": "2.0"
   },
@@ -1376,7 +1379,8 @@
     "participant_choice": "Dell Inspiron 15 3000",
     "participant_choice_price": "$399.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "5.0",
     "trust_trust": "4.0"
   },
@@ -1698,7 +1702,8 @@
     "participant_choice": "Zeppoli Pour Solo Steel",
     "participant_choice_price": "$54.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "3.0",
     "trust_trust": "2.0"
   },
@@ -2046,7 +2051,8 @@
     "participant_choice": "NutriBullet Blender Combo 1200",
     "participant_choice_price": "$99.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "5.0",
     "trust_trust": "4.0"
   },
@@ -2374,7 +2380,8 @@
     "participant_choice": "Ionvac TurboClean Pro",
     "participant_choice_price": "$64.99",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -2716,7 +2723,8 @@
     "participant_choice": "AOC C27G2Z",
     "participant_choice_price": "$179.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "6.0"
   },
@@ -3005,7 +3013,8 @@
     "participant_choice": "Smartwool Merino Short Sleeve Tee",
     "participant_choice_price": "$50.00",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "5.0"
   },
@@ -3328,7 +3337,8 @@
     "participant_choice": "Samsung Galaxy A35 5G",
     "participant_choice_price": "$319.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "6.0"
   },
@@ -3614,7 +3624,8 @@
     "participant_choice": "Brooks Addiction Walker 2",
     "participant_choice_price": "$139.95",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "6.0"
   },
@@ -3941,7 +3952,8 @@
     "participant_choice": "Eluktronics MAG-15R Rugged Pro",
     "participant_choice_price": "$3,499.00",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "3.0",
     "trust_trust": "4.0"
   },
@@ -4256,7 +4268,8 @@
     "participant_choice": "1MORE SonoFlow HC905",
     "participant_choice_price": "$69.99",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -4598,7 +4611,8 @@
     "participant_choice": "Mechrevo Lumin Pro 16X",
     "participant_choice_price": "$1,849.99",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -4921,7 +4935,8 @@
     "participant_choice": "Keychron Q1 HE",
     "participant_choice_price": "$149.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "6.0"
   },
@@ -5250,7 +5265,8 @@
     "participant_choice": "Apple iPad 10th Generation",
     "participant_choice_price": "$449.00",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "5.0"
   },
@@ -5585,7 +5601,8 @@
     "participant_choice": "Ventray 809 Slow Press",
     "participant_choice_price": "$59.99",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "5.0",
     "trust_trust": "4.0"
   },
@@ -5924,7 +5941,8 @@
     "participant_choice": "Suzuki Grand Vitara (2012)",
     "participant_choice_price": "$4,200",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -6240,7 +6258,8 @@
     "participant_choice": "Eagloo No-Pull Sport Harness",
     "participant_choice_price": "$19.99",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -6581,7 +6600,8 @@
     "participant_choice": "COSORI Pro LE 5-Qt Air Fryer",
     "participant_choice_price": "$79.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "6.0"
   },
@@ -6931,7 +6951,8 @@
     "participant_choice": "TerraFlex ProLock Patio Tile",
     "participant_choice_price": "$3.75",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "6.0",
     "trust_trust": "6.0"
   },
@@ -7278,7 +7299,8 @@
     "participant_choice": "Schenker Vision Pro 16 Max",
     "participant_choice_price": "$2,599.00",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": true,
     "trust_helpful": "6.0",
     "trust_trust": "5.0"
   },
@@ -7575,7 +7597,8 @@
     "participant_choice": "Bubble Slam Dunk Hydrating Moisturizer",
     "participant_choice_price": "$16.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "5.0",
     "trust_trust": "6.0"
   },
@@ -7887,7 +7910,8 @@
     "participant_choice": "Lululemon ABC Classic-Fit Pant",
     "participant_choice_price": "$128.00",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "6.0"
   },
@@ -8197,7 +8221,8 @@
     "participant_choice": "GE GSS25GYPFS",
     "participant_choice_price": "$1,449.00",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "5.0",
     "trust_trust": "2.0"
   },
@@ -8516,7 +8541,8 @@
     "participant_choice": "Nextwave Atlas 15 Refurbished",
     "participant_choice_price": "$174.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -8818,7 +8844,8 @@
     "participant_choice": "Sony MDR-EX15AP",
     "participant_choice_price": "$12.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "5.0",
     "trust_trust": "3.0"
   },
@@ -9115,7 +9142,8 @@
     "participant_choice": "Dreame L10s Ultra",
     "participant_choice_price": "$599.00",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "6.0"
   },
@@ -9434,7 +9462,8 @@
     "participant_choice": "Ninja Professional BL610",
     "participant_choice_price": "$99.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": true,
     "trust_helpful": "6.0",
     "trust_trust": "6.0"
   },
@@ -9736,7 +9765,8 @@
     "participant_choice": "Sauder Beginnings 4-Shelf",
     "participant_choice_price": "$79.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": true,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -10024,7 +10054,8 @@
     "participant_choice": "Dr. Bronner's Pure-Castile Rose Bar Soap",
     "participant_choice_price": "$5.49",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "6.0"
   },
@@ -10361,7 +10392,8 @@
     "participant_choice": "Lenovo ThinkPad E16 Gen 2",
     "participant_choice_price": "$899.99",
     "chose_optimal": false,
-    "chose_recommended": true,
+    "chose_focal": true,
+    "chose_ai_recommendation": true,
     "trust_helpful": "6.0",
     "trust_trust": "7.0"
   },
@@ -10673,7 +10705,8 @@
     "participant_choice": "Skechers Pier Ave Platform Sandal",
     "participant_choice_price": "$55.00",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "3.0",
     "trust_trust": "3.0"
   },
@@ -10968,7 +11001,8 @@
     "participant_choice": "Bissell Little Green ProHeat 2513G",
     "participant_choice_price": "$149.99",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "6.0",
     "trust_trust": "5.0"
   },
@@ -11321,7 +11355,8 @@
     "participant_choice": "Nikon Z6 III",
     "participant_choice_price": "$2,499.00",
     "chose_optimal": false,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "7.0",
     "trust_trust": "7.0"
   },
@@ -11615,7 +11650,8 @@
     "participant_choice": "CleanRite ProClean Max Pods",
     "participant_choice_price": "$13.99",
     "chose_optimal": true,
-    "chose_recommended": false,
+    "chose_focal": false,
+    "chose_ai_recommendation": false,
     "trust_helpful": "4.0",
     "trust_trust": "5.0"
   }
