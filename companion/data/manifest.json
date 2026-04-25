@@ -1,0 +1,21 @@
+{
+  "study_title": "Large language models that perfectly evaluate products systematically refuse to recommend the best one",
+  "n_trials": 627491,
+  "n_models": 30,
+  "n_providers": 8,
+  "n_categories": 20,
+  "n_assortments": 34,
+  "n_conditions": 44,
+  "headline_baseline_non_optimal": 0.250331,
+  "headline_baseline_ci": [
+    0.244435,
+    0.25632
+  ],
+  "headline_confabulation_rate": 0.73817,
+  "headline_confabulation_ci": [
+    0.725894,
+    0.750086
+  ],
+  "specification_gap_OR": 57,
+  "n_human_participants": 3164
+}

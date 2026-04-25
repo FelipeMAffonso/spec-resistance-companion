@@ -1,0 +1,202 @@
+{
+  "backpacks": {
+    "display": "Backpacks",
+    "involvement": "mid",
+    "hedonic": true,
+    "brand_salience": "low",
+    "id": "backpacks",
+    "baseline_n": 600,
+    "baseline_x": 40,
+    "non_optimal_rate": 0.06666666666666667
+  },
+  "blenders": {
+    "display": "Blenders",
+    "involvement": "mid",
+    "hedonic": true,
+    "brand_salience": "high",
+    "id": "blenders",
+    "baseline_n": 600,
+    "baseline_x": 140,
+    "non_optimal_rate": 0.23333333333333334
+  },
+  "cameras": {
+    "display": "Cameras",
+    "involvement": "high",
+    "hedonic": true,
+    "brand_salience": "high",
+    "id": "cameras",
+    "baseline_n": 600,
+    "baseline_x": 84,
+    "non_optimal_rate": 0.14
+  },
+  "coffee_makers": {
+    "display": "Coffee Makers",
+    "involvement": "mid",
+    "hedonic": true,
+    "brand_salience": "medium",
+    "id": "coffee_makers",
+    "baseline_n": 1813,
+    "baseline_x": 1061,
+    "non_optimal_rate": 0.5852178709321566
+  },
+  "wireless_earbuds": {
+    "display": "Wireless Earbuds",
+    "involvement": "mid",
+    "hedonic": true,
+    "brand_salience": "high",
+    "id": "wireless_earbuds",
+    "baseline_n": 1800,
+    "baseline_x": 357,
+    "non_optimal_rate": 0.19833333333333333
+  },
+  "electric_toothbrushes": {
+    "display": "Electric Toothbrushes",
+    "involvement": "low",
+    "hedonic": true,
+    "brand_salience": "medium",
+    "id": "electric_toothbrushes",
+    "baseline_n": 600,
+    "baseline_x": 80,
+    "non_optimal_rate": 0.13333333333333333
+  },
+  "external_ssds": {
+    "display": "External SSDs",
+    "involvement": "low",
+    "hedonic": false,
+    "brand_salience": "low",
+    "id": "external_ssds",
+    "baseline_n": 600,
+    "baseline_x": 29,
+    "non_optimal_rate": 0.04833333333333333
+  },
+  "headphones": {
+    "display": "Headphones",
+    "involvement": "mid",
+    "hedonic": true,
+    "brand_salience": "high",
+    "id": "headphones",
+    "baseline_n": 1800,
+    "baseline_x": 1001,
+    "non_optimal_rate": 0.5561111111111111
+  },
+  "keyboards": {
+    "display": "Keyboards",
+    "involvement": "low",
+    "hedonic": false,
+    "brand_salience": "low",
+    "id": "keyboards",
+    "baseline_n": 600,
+    "baseline_x": 6,
+    "non_optimal_rate": 0.01
+  },
+  "laptops": {
+    "display": "Laptops",
+    "involvement": "high",
+    "hedonic": false,
+    "brand_salience": "high",
+    "id": "laptops",
+    "baseline_n": 1800,
+    "baseline_x": 526,
+    "non_optimal_rate": 0.2922222222222222
+  },
+  "monitors": {
+    "display": "Monitors",
+    "involvement": "mid",
+    "hedonic": false,
+    "brand_salience": "medium",
+    "id": "monitors",
+    "baseline_n": 600,
+    "baseline_x": 78,
+    "non_optimal_rate": 0.13
+  },
+  "portable_speakers": {
+    "display": "Portable Speakers",
+    "involvement": "low",
+    "hedonic": true,
+    "brand_salience": "medium",
+    "id": "portable_speakers",
+    "baseline_n": 600,
+    "baseline_x": 209,
+    "non_optimal_rate": 0.34833333333333333
+  },
+  "robot_vacuums": {
+    "display": "Robot Vacuums",
+    "involvement": "mid",
+    "hedonic": false,
+    "brand_salience": "medium",
+    "id": "robot_vacuums",
+    "baseline_n": 600,
+    "baseline_x": 82,
+    "non_optimal_rate": 0.13666666666666666
+  },
+  "running_shoes": {
+    "display": "Running Shoes",
+    "involvement": "mid",
+    "hedonic": true,
+    "brand_salience": "medium",
+    "id": "running_shoes",
+    "baseline_n": 1800,
+    "baseline_x": 292,
+    "non_optimal_rate": 0.1622222222222222
+  },
+  "smartphones": {
+    "display": "Smartphones",
+    "involvement": "high",
+    "hedonic": false,
+    "brand_salience": "high",
+    "id": "smartphones",
+    "baseline_n": 1800,
+    "baseline_x": 377,
+    "non_optimal_rate": 0.20944444444444443
+  },
+  "smartwatches": {
+    "display": "Smartwatches",
+    "involvement": "mid",
+    "hedonic": false,
+    "brand_salience": "high",
+    "id": "smartwatches",
+    "baseline_n": 600,
+    "baseline_x": 82,
+    "non_optimal_rate": 0.13666666666666666
+  },
+  "tablets": {
+    "display": "Tablets",
+    "involvement": "high",
+    "hedonic": false,
+    "brand_salience": "high",
+    "id": "tablets",
+    "baseline_n": 600,
+    "baseline_x": 257,
+    "non_optimal_rate": 0.42833333333333334
+  },
+  "tvs": {
+    "display": "TVs",
+    "involvement": "high",
+    "hedonic": false,
+    "brand_salience": "high",
+    "id": "tvs",
+    "baseline_n": 1800,
+    "baseline_x": 335,
+    "non_optimal_rate": 0.18611111111111112
+  },
+  "water_bottles": {
+    "display": "Water Bottles",
+    "involvement": "low",
+    "hedonic": true,
+    "brand_salience": "low",
+    "id": "water_bottles",
+    "baseline_n": 600,
+    "baseline_x": 43,
+    "non_optimal_rate": 0.07166666666666667
+  },
+  "wireless_routers": {
+    "display": "Wireless Routers",
+    "involvement": "mid",
+    "hedonic": false,
+    "brand_salience": "medium",
+    "id": "wireless_routers",
+    "baseline_n": 600,
+    "baseline_x": 31,
+    "non_optimal_rate": 0.051666666666666666
+  }
+}

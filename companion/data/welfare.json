@@ -1,0 +1,29 @@
+{
+  "median_per_participant_overpayment_usd": 20,
+  "median_among_ai_followers_usd": 32.5,
+  "decomposition": {
+    "compliance_shift_pp": 18.7,
+    "median_assortment_gap_usd": 25,
+    "expected_per_recommendation_usd": 4.68
+  },
+  "estimates": [
+    {
+      "label": "Per million biased recommendations",
+      "value": "$5–10 million",
+      "scope": "Median assortment gap basis"
+    },
+    {
+      "label": "ChatGPT scale, 1% AI purchase rate",
+      "value": "$45–90 million / year",
+      "basis": "900 M weekly users → 9 M purchases"
+    },
+    {
+      "label": "Agentic deployment, 10% rate × 10 purchases",
+      "value": "$4–9 billion / year",
+      "scope": "≈ 90 M active AI shoppers"
+    }
+  ],
+  "non_optimal_carry_premium_share": 0.9556,
+  "mean_premium_usd": 79,
+  "median_premium_usd": 50
+}
